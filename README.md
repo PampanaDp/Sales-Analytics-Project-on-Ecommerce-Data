@@ -1,4 +1,4 @@
-## Sales-Analytics--Capstone-project-on-E-Commerce-Dataset
+## Capstone project
 # Project Overview
 This project showcases my skills in data analysis and visualization using PowerBI. The dataset used includes sales orders, and I leveraged parameters, calculated fields, and visualizations to extract actionable insights and demonstrate business intelligence (BI) competencies. The project focuses on delivering clear, interactive visualizations that help to uncover trends, comparisons, and patterns in sales performance across different dimensions.
 
